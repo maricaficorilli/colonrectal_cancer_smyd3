@@ -5,4 +5,4 @@ followed by an enrichment analysis on DE genes using clusterProfiler Bioconducto
 
 There are additional files on the results of the various comparisons. In this case we used a log fold change (logFC) >= 1 or <= -1 and False Discovery Rate (FDR) < 0.01.
 
-NOTE: It is necessary to download the raw matrix from the following code GSE264157 on GEO -NCBI (https://www.ncbi.nlm.nih.gov/geo/) before using the script.
+NOTE: It is necessary to download the raw genes matrix from the following code GSE264157 on GEO -NCBI (https://www.ncbi.nlm.nih.gov/geo/) before using the script.
